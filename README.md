@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Vrn18
+- 👋 Hi, I’m @Varun
 - 👀 I’m interested in making real time projects
 - 🌱 I’m currently a student
 - 📫 reach me  gangamvarun4@gmail.com
